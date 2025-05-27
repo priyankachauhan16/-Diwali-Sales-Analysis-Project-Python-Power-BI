@@ -120,6 +120,6 @@ This dual-tool project showcases the complete data analytics pipeline — from r
 
 Contact :
 
-Linkedin : linkedin.com/in/priyanka-chauhan-b16613249
+Linkedin : in/priyanka-chauhan-b16613249
 
 Github   : https://github.com/priyankachauhan16
