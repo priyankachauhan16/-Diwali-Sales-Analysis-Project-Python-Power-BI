@@ -86,12 +86,13 @@ Zone, Year, Gender, State, Product Category
 Background: Light cream 
 
 🔁 Python vs Power BI: Why Both?
-Feature               	Python	       Power BI
-Deep Cleaning	           ✅	          ❌
-Static Charts            ✅	            ❌
-Interactive Dashboards	 ❌            	✅
-Forecasting & Drilldowns ❌	            ✅
-Real-time Filtering	     ❌          	✅
+| Feature                  | Python   | Power BI |
+| ------------------------ | :----:   | :------: |
+| Deep Data Cleaning       |    ✅   |     ❌    |
+| Static & Custom Visuals  |    ✅   |     ❌    |
+| Interactive Dashboards   |    ❌   |     ✅    |
+| Forecasting & Drilldowns |    ❌   |     ✅    |
+| Real-time Filtering      |    ❌   |     ✅    |
 
 Using both tools allowed:
 
