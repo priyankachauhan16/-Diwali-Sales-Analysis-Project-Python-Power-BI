@@ -119,6 +119,7 @@ Integrate with SQL database and refreshable Power BI dataset
 This dual-tool project showcases the complete data analytics pipeline — from raw data exploration in Python to interactive storytelling in Power BI. It offers actionable business insights and marketing directions for seasonal campaigns.
 
 Contact :
+
 Linkedin : linkedin.com/in/priyanka-chauhan-b16613249
 
 Github   : https://github.com/priyankachauhan16
