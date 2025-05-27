@@ -6,6 +6,7 @@ Name: Diwali Sales Data.csv
 
 Content: Includes customer demographics, product categories, orders, and transaction amounts during the Diwali season.
 
+⚙️ Tools & Technologies
 | Tool                 | Purpose                           |
 | -------------------- | --------------------------------- |
 | Python               | Data cleaning, preprocessing, EDA |
