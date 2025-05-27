@@ -3,9 +3,6 @@ This project analyzes a retail store's sales performance during the Diwali festi
 
 📁 Dataset
 Name: Diwali Sales Data.csv
-
-Source: Internal Retail Sales
-
 Content: Includes customer demographics, product categories, orders, and transaction amounts during the Diwali season.
 
 ⚙️ Tools & Technologies
